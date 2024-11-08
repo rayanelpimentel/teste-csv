@@ -1,0 +1,5 @@
+Nome,Idade,Peso,Altura
+João,30,80,181
+Maria,24,67,168
+Paulo,42,76,180
+Magda,16,60,160
